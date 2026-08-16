@@ -4,7 +4,7 @@ A two-page operational dashboard built in Power BI for freight/logistics trackin
 
 **Which lanes and carriers are driving booking and delivery delays, and where in the shipment lifecycle are those delays happening?**
 
-Note: this repo contains a sanitized sample version. All figures, booking numbers, and client identifiers have been replaced with synthetic data — see logistics-control-tower.html for a static, dependency-free preview.
+Note: this repo contains a sanitized sample version. All figures, booking numbers, and client identifiers have been replaced with synthetic data.
 
 ## What it does
 
